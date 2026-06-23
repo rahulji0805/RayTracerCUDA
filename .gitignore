@@ -1,0 +1,10 @@
+*.exe
+*.obj
+*.exp
+*.lib
+*.pdb
+*.o
+outputs/*.png
+outputs/*.csv
+__pycache__/
+*.pyc
