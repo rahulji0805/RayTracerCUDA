@@ -3,7 +3,7 @@
 **Target GPU:** NVIDIA RTX 4060 Laptop GPU (Ada Lovelace, `sm_89`)  
 
 <p align="center">
-  <img src="./Demo.gif" alt="CUDA Ray Tracer Demo" />
+  <img src="./Demo.gif" alt="CUDA Ray Tracer Demo" width="95%" />
 </p>
 
 A CUDA C++ ray tracer with an interactive real-time demo. One CUDA thread renders one pixel. 168 spheres, diffuse and metal materials, hard shadows, procedural checkerboard floor, NxN supersampled anti-aliasing. Includes a Win32 interactive window (`live_demo.exe`) running at **370+ FPS** on the target hardware.
