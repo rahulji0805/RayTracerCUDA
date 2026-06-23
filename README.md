@@ -1,4 +1,9 @@
-# CUDA C++ Ray Tracer
+# CUDA C++ Ray Tracer  
+![CUDA](https://img.shields.io/badge/CUDA-C++-76B900)
+![GPU](https://img.shields.io/badge/GPU-RTX4060-blue)
+![FPS](https://img.shields.io/badge/LiveDemo-370+FPS-orange)
+![Speedup](https://img.shields.io/badge/Peak-988x-success)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 **Target GPU:** NVIDIA RTX 4060 Laptop GPU (Ada Lovelace, `sm_89`)  
 
