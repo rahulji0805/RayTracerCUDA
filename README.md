@@ -28,7 +28,7 @@ A CUDA C++ ray tracer with an interactive real-time demo. One CUDA thread render
 ## Project structure
 
 ```
-RayTracerCUDA_Cpp/
+RayTracerCUDA/
 ├── src/
 │   ├── vec3.cuh             # __host__ __device__ vector math
 │   ├── camera.cuh           # look-at camera, build_camera()
